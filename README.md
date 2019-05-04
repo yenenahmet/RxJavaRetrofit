@@ -9,5 +9,6 @@ Used Technologies :
 * DataBinding - RecyclerView , CustomBindings
 * LiveData
 * RxJava  - Merge , Zip operator
+* Java8
 * Retrofit
 
