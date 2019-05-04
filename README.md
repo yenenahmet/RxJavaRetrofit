@@ -1,5 +1,5 @@
 # RxJavaRetrofit
-Example
+
 
 sample project : https://www.journaldev.com/20433/android-rxjava-retrofit
 
